@@ -16,4 +16,5 @@ class LMProfileMaster extends Model
 
     public $incrementing = false;
 
+    public $keyType = 'string';
 }
